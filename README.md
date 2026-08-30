@@ -1,3 +1,4 @@
+
 # 🖥️ Smart-Display-Canvas — Wireless Interactive 7-Segment LED Matrix
 
 > A wireless, browser-controlled digital canvas built on an **ESP32** and a daisy-chain of **8 × MAX7219** LED drivers, turning 64 individual 7-segment displays into a real-time drawable art board.
@@ -39,7 +40,16 @@ The result is a retro-style, IoT-enabled visualization board that demonstrates p
 
 ---
 
-https://github.com/TECS-TheelectronicsclubatSASTRA/Interactive_Display/blob/main/Images/image.png
+<img width="960" height="1280" alt="43ac929c-ce6d-450b-b532-0a175d991d34" src="https://github.com/user-attachments/assets/e38838e6-58ad-41c6-bb96-9f706690b2ba" />
+
+
+https://github.com/user-attachments/assets/5e35a55f-52e8-4050-b6ef-8c6fed39ed79
+
+<img width="720" height="1280" alt="66412113-a378-4ff5-ae25-fc93fb04ff55" src="https://github.com/user-attachments/assets/4cdbb87c-d9c2-40aa-8582-6e5bbf877c9f" />
+<img width="960" height="1280" alt="a459635f-0bb3-48a3-bc7d-a23bd89c56f5" src="https://github.com/user-attachments/assets/570c01fd-e71d-4947-b7e1-abbc78af6878" />
+<img width="960" height="1280" alt="bacf8af3-225c-45fa-be3e-9164b41045fc" src="https://github.com/user-attachments/assets/536e91e7-37f6-4a15-bae7-f5d8df0613ef" />
+<img width="960" height="1280" alt="60614750-40b5-4536-b4a6-e5f8ae500776" src="https://github.com/user-attachments/assets/3824bfd3-4b13-43a6-a481-65bc33e3ca43" />
+
 
 ## ✨ Key Features
 
