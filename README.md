@@ -39,6 +39,8 @@ The result is a retro-style, IoT-enabled visualization board that demonstrates p
 
 ---
 
+https://github.com/TECS-TheelectronicsclubatSASTRA/Interactive_Display/blob/main/Images/image.png
+
 ## ✨ Key Features
 
 | Feature | Description |
