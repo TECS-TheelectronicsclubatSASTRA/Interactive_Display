@@ -39,18 +39,19 @@ This project implements a **wireless interactive display system** using an **ESP
 The result is a retro-style, IoT-enabled visualization board that demonstrates practical integration of **embedded hardware**, **wireless communication**, and **web technologies** for real-time human–machine interaction.
 
 ---
+<img width="720" height="720" alt="66412113-a378-4ff5-ae25-fc93fb04ff55" src="https://github.com/user-attachments/assets/4cdbb87c-d9c2-40aa-8582-6e5bbf877c9f" />
+<img width="720" height="720" alt="43ac929c-ce6d-450b-b532-0a175d991d34" src="https://github.com/user-attachments/assets/e38838e6-58ad-41c6-bb96-9f706690b2ba" />
+<img width="720" height="720" alt="60614750-40b5-4536-b4a6-e5f8ae500776" src="https://github.com/user-attachments/assets/3824bfd3-4b13-43a6-a481-65bc33e3ca43" />
 
-<img width="960" height="1280" alt="43ac929c-ce6d-450b-b532-0a175d991d34" src="https://github.com/user-attachments/assets/e38838e6-58ad-41c6-bb96-9f706690b2ba" />
 
+
+
+<img width="720" height="720" alt="a459635f-0bb3-48a3-bc7d-a23bd89c56f5" src="https://github.com/user-attachments/assets/570c01fd-e71d-4947-b7e1-abbc78af6878" />
+<img width="720" height="720" alt="bacf8af3-225c-45fa-be3e-9164b41045fc" src="https://github.com/user-attachments/assets/536e91e7-37f6-4a15-bae7-f5d8df0613ef" />
+
+https://github.com/user-attachments/assets/1e50633f-7fd4-4bf5-923b-ab28a4358492
 
 https://github.com/user-attachments/assets/5e35a55f-52e8-4050-b6ef-8c6fed39ed79
-
-<img width="720" height="1280" alt="66412113-a378-4ff5-ae25-fc93fb04ff55" src="https://github.com/user-attachments/assets/4cdbb87c-d9c2-40aa-8582-6e5bbf877c9f" />
-<img width="960" height="1280" alt="a459635f-0bb3-48a3-bc7d-a23bd89c56f5" src="https://github.com/user-attachments/assets/570c01fd-e71d-4947-b7e1-abbc78af6878" />
-<img width="960" height="1280" alt="bacf8af3-225c-45fa-be3e-9164b41045fc" src="https://github.com/user-attachments/assets/536e91e7-37f6-4a15-bae7-f5d8df0613ef" />
-<img width="960" height="1280" alt="60614750-40b5-4536-b4a6-e5f8ae500776" src="https://github.com/user-attachments/assets/3824bfd3-4b13-43a6-a481-65bc33e3ca43" />
-
-
 ## ✨ Key Features
 
 | Feature | Description |
