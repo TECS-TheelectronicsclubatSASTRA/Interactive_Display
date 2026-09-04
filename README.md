@@ -311,10 +311,6 @@ These tracks were integrated into a single functional device as the project's fi
 
 ---
 
-## 📝 License
-
-This project is released under the **MIT License**. Feel free to fork, modify, and build upon it — attribution appreciated.
-
 ---
 
 <p align="center"><i>Built as part of an ECE embedded systems + IoT integration project — combining hardware, firmware, and web technologies into one interactive device.</i></p>
